@@ -136,7 +136,7 @@ class Project {
 }
 
 const projects = [
-{
+  {
     projectName: "event calendar",
     projectDescription: "Designed & Built Event Calendar Application using HTML CSS and JavaScript.",
     projectImage: "images/event-calendar.png",
@@ -147,8 +147,8 @@ const projects = [
     projectName: "book tittles arrays",
     projectDescription:"book tittles arrays with clickable buttons and sorted, assorted and rewind",
     projectImage: "images/book titles.png",
-    codeLink: "https://github.com/eyesee420/BOOKS-TITLES.git",
-    demoLink: "https://eyesee420.github.io/BOOKS-TITLES/"
+    codeLink: "https://github.com/eyesee420/book-tittles.git",
+    demoLink: "https://eyesee420.github.io/book-tittles/"
   },
   {
     projectName: "simple hover images",
@@ -157,14 +157,6 @@ const projects = [
     codeLink: "https://github.com/eyesee420/img_icaonapo_ian-christopher.git",
     demoLink: "https://eyesee420.github.io/img_icaonapo_ian-christopher/"
 
-  },
-  {
-    projectName: "Dino Game",
-    projectDescription:
-      "Designed & Built Dino Game Application using HTML CSS and JavaScript.",
-    projectImage: "images/dinoima.png",
-    codeLink: "https://github.com/eyesee420/dino_game.git",
-    demoLink: "https://eyesee420.github.io/dino_game/"
   },
   {
     projectName: "Dino Game",
